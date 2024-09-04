@@ -4,8 +4,8 @@
 
 // const ComingSoon = () => {
 //     const cards = [
-//         { title: "TELEGRAM", text: "Join Now", link: "https://t.me/FWOXonSOLANA", image: cardImage1, initialRotation: "rotate-[-4deg]", },
-//         { title: "X", text: "Join Now", link: "https://x.com/FWOXSOL", image: img1,  initialRotation: "rotate-[6deg]", },
+//         { title: "TELEGRAM", text: "Join Now", link: "https://t.me/", image: cardImage1, initialRotation: "rotate-[-4deg]", },
+//         { title: "X", text: "Join Now", link: "https://x.com/", image: img1,  initialRotation: "rotate-[6deg]", },
 //       ];
 //   return (
     
@@ -67,14 +67,14 @@ const ComingSoon = () => {
     {
       title: "TELEGRAM",
       text: "Join Now",
-      link: "https://t.me/FWOXonSOLANA",
+      link: "https://t.me/",
       image: cardImage1,
       initialRotation: "rotate-[-4deg]",
     },
     {
       title: "X",
       text: "Join Now",
-      link: "https://x.com/FWOXSOL",
+      link: "https://x.com/",
       image: img1,
       initialRotation: "rotate-[6deg]",
     },
@@ -88,8 +88,8 @@ const ComingSoon = () => {
         className="w-[200px] h-auto md:w-[150px] lg:w-[600px] mb-8"
       />
 
-      <h1 className="text-orange-500 text-2xl drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)] md:text-6xl font-bold mb-32 font-comic">
-        CA: 2FerCnRdCrNvXegTuGA2cXPstPBVMPSHaWw9gdispump
+      <h1 className="text-green-800 text-2xl drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)] md:text-6xl font-bold mb-32 font-comic">
+        CA: LOADING...
       </h1>
 
       <a
