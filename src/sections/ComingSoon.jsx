@@ -30,11 +30,11 @@ const ComingSoon = () => {
       />
 
       <h1 className="text-green-800 text-2xl drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)] md:text-6xl font-bold mb-32 font-comic">
-        CA: LOADING...
+        CA: 8HYSJNxLFaLqBvU1ntoWR2yDrJtAwbhvJJXYvDVipump
       </h1>
 
       <a
-        href="https://pump.fun/"
+        href="https://pump.fun/8HYSJNxLFaLqBvU1ntoWR2yDrJtAwbhvJJXYvDVipump"
         className="bg-black border-4 border-black rounded-full px-10 py-4 text-white font-bold text-lg hover:bg-transparent hover:text-black transition-colors duration-300"
       >
         Buy Now
